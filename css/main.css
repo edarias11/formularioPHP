@@ -1,0 +1,211 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-image: url(../img/photo.jpg);
+  background-size: 100vw 100vh;
+  background-attachment: fixed;
+  margin: 0;
+  width: 100%;
+}
+
+.navbar-brand {
+  font-size: 20px;
+  color: #000;
+  font-weight: bold;
+}
+
+#testimonial {
+  background: #f1f1f1;
+  padding: 50px 0 30px 0;
+  text-align:center;
+  margin-top: 40px;
+}
+
+.about{
+	margin-top: 10%;
+}
+
+.formulario{
+	margin-top: 12.5%;
+  margin-left: 500px; 
+
+}
+
+
+.imagen{
+  width: 100%; 
+  height: 300px;
+  width: 300px;
+  margin-right:  100%;
+}
+
+form{
+  width: 450px;
+  margin: auto;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  margin-top: 230px;
+  border-radius: 7px;
+}
+
+form h2{
+  text-align:center;
+}
+
+input,textarea{
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 7px;
+  box-sizing: border-box;
+  font-size: 17px;
+  border:none;
+}
+
+textarea{
+min-height: 100px;
+max-height: 200px;
+max-width: 100%;
+}
+
+#boton{
+  background:#11e1bb;
+  padding: 10px;
+}
+
+@media (max-width:480px){
+
+  form{
+    width: 100%
+  }
+
+  p{
+    width: 100%;
+
+  }
+
+
+
+}
+
+.header-content-left{
+  margin-top: 100px;
+}
+
+.header-content-rigth{
+  margin-top: 100px;
+}
+
+
+.img-1{
+  width: 100%;
+}
+
+h1{
+  text-decoration-color: red;
+}
+
+.eli.png{
+  width: 20px;
+}
+
+.menu{
+  margin: center;
+}
+
+p{
+  color: #000000;
+}
+
+
+
+
+.stretch-card>.card {
+     width: 100%;
+     min-width: 100%
+ }
+
+ body {
+     background-color: #f9f9fa
+ }
+
+ .flex {
+     -webkit-box-flex: 1;
+     -ms-flex: 1 1 auto;
+     flex: 1 1 auto
+ }
+
+ @media (max-width:991.98px) {
+     .padding {
+         padding: 1.5rem
+     }
+ }
+
+ @media (max-width:767.98px) {
+     .padding {
+         padding: 1rem
+     }
+ }
+
+ .padding {
+     padding: 3rem
+ }
+
+ .card {
+     box-shadow: none;
+     -webkit-box-shadow: none;
+     -moz-box-shadow: none;
+     -ms-box-shadow: none
+ }
+
+ .card {
+     position: relative;
+     display: flex;
+     flex-direction: column;
+     min-width: 0;
+     word-wrap: break-word;
+     background-color: #fff;
+     background-clip: border-box;
+     border: 1px solid #3da5f;
+     border-radius: 0
+ }
+
+ .card .card-body {
+     padding: 1.25rem 1.75rem
+ }
+
+ .card .card-title {
+     color: #000000;
+     margin-bottom: 0.625rem;
+     text-transform: capitalize;
+     font-size: 0.875rem;
+     font-weight: 500
+ }
+
+ .card .card-description {
+     margin-bottom: .875rem;
+     font-weight: 400;
+     color: #76838f
+ }
+
+ 
+#consultas input text{
+     color: f1f1f1;
+
+}
+
+.info ul li{
+  margin: 5px;
+} 
+
+h1,p{
+  text-align: center;
+}
+
+p{
+  color: #f1f1f1;
+}
+
+h2{
+  color: #f1f1f1;
+}
+
+
